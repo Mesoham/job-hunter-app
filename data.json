@@ -1,0 +1,646 @@
+{
+  "candidate": "Soham Chowdhury",
+  "email": "Chowdhurysoham007@gmail.com",
+  "phone": "+91-6291003368",
+  "stats": {
+    "total": 1,
+    "mnc": 0,
+    "startups": 1,
+    "emailed": 0,
+    "early": 1,
+    "walkins": 0
+  },
+  "jobs": [
+    {
+      "id": "074384ba5bec634e05d42063813259bd",
+      "platform": "LinkedIn",
+      "title": "Jr. Consultant ESG",
+      "company": "Sustainability Intelligence",
+      "location": "Kolkata metropolitan area, West Bengal, India",
+      "url": "https://www.linkedin.com/jobs/view/4493401448/",
+      "description": "Job Description The Junior Consultant \u2013 ESG will support the delivery of environmental, social, governance, sustainability related business advisory assignments across various sectors. The role will involve assisting with ESG due diligence, environmental and social impact assessments, sustainability reporting, regulatory compliance reviews, and research on ESG standards and best practices. Key Responsibilities: Support the preparation of ESG assessments, due diligence studies, and sustainability reports. Conduct research on ESG regulations, industry standards, and emerging sustainability trends. Assist in environmental and social baseline studies, data collection, and analysis. Contribute to the development of ESG management plans, policies, and monitoring frameworks. Analyze qualitative and quantitative ESG data and prepare presentations and technical reports. Support alignment of projects with standards such as IFC Performance Standards, Equator Principles, World Bank ESS, ADB ESF and other relevant frameworks. Qualifications &amp; Skills: Master's degree in Environmental Science, Sustainability Management, Engineering, or a related field. 0-3 years of relevant experience in ESG, sustainability, environmental management, social development, or consulting. Strong research, analytical, and report-writing skills. Proficiency in MS Office (Word, Excel, PowerPoint). Familiarity with ESG frameworks and sustainability reporting standards is desirable. Good communication skills and ability to work in multidisciplinary teams. Location: Base location Kolkata and as per project requirements, including field visits when necessary. Experience: 0-3 years.",
+      "is_mnc": 0,
+      "is_early_bird": 1,
+      "match_score": 95.0,
+      "hr_email": "",
+      "status": "APPLIED",
+      "date_posted": "2026-11-25T09:01:39.149981",
+      "date_found": "2026-11-26T08:01:39.150620",
+      "date_applied": "2026-11-26T08:01:44.443305",
+      "tailored_resume_path": "/home/runner/work/Job-Hunter-Automation/Job-Hunter-Automation/generated_resumes/Soham_Chowdhury_Resume_Sustainability_Intelligence_074384ba.pdf",
+      "cover_letter_path": "/home/runner/work/Job-Hunter-Automation/Job-Hunter-Automation/generated_resumes/Soham_Chowdhury_CoverLetter_Sustainability_Intelligence_074384ba.pdf",
+      "notes": "Startup Job (No HR email listed) | Ready for direct portal application",
+      "career_portal_url": "",
+      "user_action": "PENDING",
+      "action_timestamp": null,
+      "loc_category": "Kolkata",
+      "resume_html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta charset=\"utf-8\">\n    <title>Resume - Soham Chowdhury - Sustainability Intelligence</title>\n    <style>\n        body { font-family: 'Segoe UI', Arial, sans-serif; background: #f8fafc; margin: 0; padding: 20px; color: #1e293b; }\n        .resume-card { max-width: 800px; margin: 0 auto; background: white; padding: 40px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border-radius: 8px; }\n        h1 { margin: 0; font-size: 24px; color: #0f172a; text-align: center; letter-spacing: 0.5px; }\n        .contact { text-align: center; font-size: 13px; color: #64748b; margin: 8px 0; }\n        .headline { text-align: center; font-weight: 600; color: #2563eb; font-size: 14px; margin-bottom: 15px; }\n        hr { border: 0; border-top: 1.5px solid #e2e8f0; margin: 15px 0; }\n        .section-title { font-size: 13px; font-weight: bold; color: #0f172a; text-transform: uppercase; letter-spacing: 1px; border-bottom: 2px solid #3b82f6; display: inline-block; padding-bottom: 2px; margin-bottom: 8px; }\n        .summary { font-size: 13px; line-height: 1.6; color: #334155; margin-bottom: 15px; }\n        .job-header { display: flex; justify-content: space-between; font-weight: bold; font-size: 13.5px; color: #0f172a; }\n        .job-sub { font-size: 12.5px; color: #64748b; margin-bottom: 6px; font-style: italic; }\n        ul { margin: 4px 0 15px 20px; padding: 0; font-size: 12.5px; line-height: 1.55; color: #334155; }\n        li { margin-bottom: 4px; }\n        .skill-row { font-size: 12.5px; margin-bottom: 5px; }\n        .skill-label { font-weight: 600; color: #1e293b; display: inline-block; width: 150px; }\n        .badge { background: #eff6ff; color: #1d4ed8; padding: 2px 8px; border-radius: 4px; font-size: 11px; margin-right: 4px; }\n    </style>\n</head>\n<body>\n    <div class=\"resume-card\">\n        <h1>SOHAM CHOWDHURY</h1>\n        <div class=\"contact\">Kolkata, West Bengal | Chowdhurysoham007@gmail.com | +91-6291003368 | <a href=\"https://www.linkedin.com/in/soham-chowdhury\" target=\"_blank\">LinkedIn Profile</a></div>\n        <div class=\"headline\">Data & Reporting Analyst | SQL & Business Intelligence</div>\n        <hr>\n        \n        <div class=\"section-title\">Professional Summary</div>\n        <div class=\"summary\">Results-driven Data and Process Analyst with 1+ years of experience at Genpact, supporting a global technology platform. Specialized in SQL data validation, KPI dashboards, reconciliation, and automated reporting. Proficient in SQL (MySQL), Advanced Excel dashboards, Power BI, and Salesforce CRM. Adept at accelerating issue resolution by 30% through root-cause analysis and maintaining audit-ready documentation. Eager to contribute analytical rigor and operational excellence to Sustainability Intelligence as a Jr. Consultant ESG.</div>\n\n        <div class=\"section-title\">Professional Experience</div>\n        <div class=\"job-header\">\n            <span>Process Associate - Genpact</span>\n            <span>March 2025 - September 2026</span>\n        </div>\n        <div class=\"job-sub\">Data Validation, Compliance Operations & Reporting</div>\n        <ul>\n            <li>Designed and maintained Excel dashboards to track KPIs, case volumes, and SLA resolution rates, enabling data-driven stakeholder reporting across weekly and monthly review cycles.</li><li>Wrote and optimised SQL (MySQL) queries to extract, validate, and reconcile operational data across case management and compliance systems, reducing manual lookup time by ~40%.</li><li>Performed data validation and reconciliation of user account records, ensuring data integrity and audit readiness across internal compliance databases.</li><li>Collaborated cross-functionally with operations, quality, and compliance teams to resolve complex escalations 30% faster through structured root-cause analysis and data-driven triage protocols.</li><li>Prepared and maintained audit-ready documentation, process logs, and escalation reports aligned with internal quality assurance and regulatory compliance standards.</li><li>Managed account-level support and identity-verification escalations for a large-scale global social media platform, applying platform compliance guidelines to high-sensitivity cases.</li>\n        </ul>\n\n        <div class=\"section-title\">Technical Skills & Competencies</div>\n        <div class=\"skill-row\"><span class=\"skill-label\">Data & Analytics:</span> SQL (MySQL), MS Excel (Advanced), Power BI, MS PowerPoint, MS Office Suite, KPI Reporting, MIS Reporting</div>\n        <div class=\"skill-row\"><span class=\"skill-label\">CRM & Systems:</span> Salesforce CRM, Case Management Systems, Ticketing Tools</div>\n        <div class=\"skill-row\"><span class=\"skill-label\">Domain Knowledge:</span> Data Validation, Reconciliation, Audit Documentation, Compliance Operations, KPI Reporting, Process Improvement, Data Governance (foundational), Root-Cause Analysis, SLA Management</div>\n        <div class=\"skill-row\"><span class=\"skill-label\">Soft Skills:</span> Stakeholder Communication, Cross-functional Collaboration, Analytical Thinking, Attention to Detail, Problem Solving</div>\n\n        <hr>\n        <div class=\"section-title\">Education</div>\n        <div class=\"job-header\" style=\"font-size:12.5px; font-weight:normal; margin-bottom:4px;\"><span><strong>Lovely Professional University</strong> - B.Tech in Computer Science</span><span>CGPA: 7.51 (2020 - 2024)</span></div><div class=\"job-header\" style=\"font-size:12.5px; font-weight:normal; margin-bottom:4px;\"><span><strong>Harnett High School</strong> - Higher Secondary Education (Class XII)</span><span>77.2% (2018 - 2020)</span></div><div class=\"job-header\" style=\"font-size:12.5px; font-weight:normal; margin-bottom:4px;\"><span><strong>Bedibhawan Rabitirtha Vidyalaya</strong> - Secondary Education (Class X)</span><span>83.6% (2005 - 2018)</span></div>\n\n        <div style=\"margin-top:12px;\"></div>\n        <div class=\"section-title\">Certifications</div>\n        <div style=\"font-size:12.5px; color:#334155; margin-top:4px;\">\n            <strong>Google Data Analytics Certificate</strong> (Google / Coursera) | <strong>Foundations of Project Management</strong> (Google / Coursera) | <strong>Database Management System</strong> (Prepinsta) | <strong>Salesforce Developer Certification</strong> (SkillStone)\n        </div>\n    </div>\n</body>\n</html>\n",
+      "cover_letter_text": "SOHAM CHOWDHURY\nKolkata, West Bengal | Chowdhurysoham007@gmail.com | +91-6291003368 | https://www.linkedin.com/in/soham-chowdhury\n\nNovember 26, 2026\n\nTo:\nHiring Team & Talent Acquisition\nSustainability Intelligence\nKolkata, India / Remote\n\nRE: Application for Jr. Consultant ESG Position - Soham Chowdhury\n\nDear Hiring Team at Sustainability Intelligence,\n\nI am writing to express my strong interest in the Jr. Consultant ESG position at Sustainability Intelligence. With hands-on operational and analytical experience at Genpact supporting enterprise technology platforms, coupled with a B.Tech in Computer Science from Lovely Professional University, I bring proven expertise in data integrity, SQL validation, and executive KPI reporting.\n\nDuring my tenure as Process Associate at Genpact, I supported enterprise case management and compliance systems, driving measurable efficiencies across core workflows:\n- SQL Data Validation & Reconciliation: Wrote and optimized MySQL queries across case management databases, decreasing manual data lookup time by ~40% while maintaining 100% data integrity for audit readiness.\n- Executive Dashboards & KPI Reporting: Designed and maintained dynamic Excel reporting dashboards to track case volumes, turnaround times, and SLA compliance for stakeholder reviews.\n- Root-Cause Triage & SLA Excellence: Partnered cross-functionally with operations and quality teams to resolve complex escalations 30% faster via structured root-cause analysis.\n\nWhat distinguishes my profile for Sustainability Intelligence is the combination of technical proficiency in SQL, Excel, and Power BI with a disciplined compliance mindset. Whether handling complex reconciliations, automating daily reports, or collaborating with cross-functional partners, I take ownership of data accuracy and process reliability.\n\nI am based in Kolkata, fully equipped for both Kolkata on-site and Remote (WFH) arrangements, and available to join immediately (immediate to 15 days notice). I welcome the opportunity to speak with you regarding how my background can support Sustainability Intelligence's operational goals.\n\nThank you for your time, consideration, and review of my application.\n\nSincerely,\n\nSoham Chowdhury\nPhone: +91-6291003368\nEmail: Chowdhurysoham007@gmail.com\nLinkedIn: https://www.linkedin.com/in/soham-chowdhury\n",
+      "resume_pdf_url": "resumes/Resume_074384ba.pdf",
+      "cover_letter_pdf_url": "resumes/CoverLetter_074384ba.pdf"
+    }
+  ],
+  "walkins": [],
+  "audit_logs": [
+    {
+      "log_id": 472,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-28 14:04:49",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 471,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-28 14:04:49",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 32 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 470,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-28 14:04:10",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 469,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-28 05:00:07",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 468,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-28 05:00:07",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 43 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 467,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-28 04:59:25",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 466,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-27 23:41:35",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 465,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-27 23:41:35",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 38 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 464,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-27 23:40:55",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 463,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-27 15:29:22",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 462,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-27 15:29:22",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 36 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 461,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-27 15:28:43",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 460,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-27 05:24:10",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 459,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-27 05:24:10",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 36 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 458,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-27 05:23:31",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 457,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-26 23:34:07",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 456,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-26 23:34:07",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 31 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 455,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-26 23:33:30",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 454,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-26 14:49:46",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 453,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-26 14:49:46",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 42 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 452,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-26 14:48:57",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 451,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-26 08:01:44",
+      "details": "Autonomous cycle completed: 1 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 450,
+      "job_id": "074384ba5bec634e05d42063813259bd",
+      "action": "STARTUP_DIRECT_READY",
+      "timestamp": "2026-11-26 08:01:44",
+      "details": "Startup Job at Sustainability Intelligence (Jr. Consultant ESG): Tailored ATS CV & CL generated. Ready for direct application.",
+      "company": "Sustainability Intelligence",
+      "title": "Jr. Consultant ESG",
+      "is_mnc": 0
+    },
+    {
+      "log_id": 449,
+      "job_id": "074384ba5bec634e05d42063813259bd",
+      "action": "APPLIED",
+      "timestamp": "2026-11-26T08:01:44.443305",
+      "details": "Startup Job (No HR email listed) | Ready for direct portal application",
+      "company": "Sustainability Intelligence",
+      "title": "Jr. Consultant ESG",
+      "is_mnc": 0
+    },
+    {
+      "log_id": 448,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-26 08:01:44",
+      "details": "Scan cycle complete. Discovered 1 newly qualified jobs. Filtered out 44 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 447,
+      "job_id": "074384ba5bec634e05d42063813259bd",
+      "action": "JOB_QUALIFIED",
+      "timestamp": "2026-11-26 08:01:39",
+      "details": "New eligible posting: Jr. Consultant ESG at Sustainability Intelligence (Kolkata metropolitan area, West Bengal, India) | ATS: 95% | MNC=0 -> Platform Link",
+      "company": "Sustainability Intelligence",
+      "title": "Jr. Consultant ESG",
+      "is_mnc": 0
+    },
+    {
+      "log_id": 446,
+      "job_id": "074384ba5bec634e05d42063813259bd",
+      "action": "DISCOVERED",
+      "timestamp": "2026-11-26T08:01:39.150620",
+      "details": "Found on LinkedIn: Jr. Consultant ESG at Sustainability Intelligence (Score: 95%)",
+      "company": "Sustainability Intelligence",
+      "title": "Jr. Consultant ESG",
+      "is_mnc": 0
+    },
+    {
+      "log_id": 445,
+      "job_id": "513af473428ca97a03aa2e951e572943",
+      "action": "JOB_PURGED_INELIGIBLE",
+      "timestamp": "2026-11-26 08:01:00",
+      "details": "Removed ineligible job 'Consultant - RDC TC MSOFT' at PwC India: Experience/Domain mismatch: Location '' does not meet Kolkata, Remote, or Hybrid (Kolkata) criteria",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 444,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-26 08:01:00",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 443,
+      "job_id": "12527068772f4a131824ea99b23ff114",
+      "action": "JOB_PURGED_INELIGIBLE",
+      "timestamp": "2026-11-26 12:32:37",
+      "details": "Removed ineligible job 'Financial Research Associate' at SDSR: Expired/closed on origin platform",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 442,
+      "job_id": "adc452bcf92bb22435e359a096527999",
+      "action": "JOB_PURGED_INELIGIBLE",
+      "timestamp": "2026-11-26 12:32:28",
+      "details": "Removed ineligible job 'ASSOCIATE \u2013 STRATEGY &amp; PLANNING' at Cover Canvas HR Solutions: Expired/closed on origin platform",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 441,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-26 12:31:55",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 440,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-24 10:21:15",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 439,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-24 10:21:15",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 32 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 438,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-24 10:20:33",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 437,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-24 09:57:54",
+      "details": "Autonomous cycle completed: 0 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 436,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-24 09:57:54",
+      "details": "Scan cycle complete. Discovered 0 newly qualified jobs. Filtered out 34 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 435,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-24 09:57:10",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 434,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-24 09:17:03",
+      "details": "Autonomous cycle completed: 2 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 433,
+      "job_id": "caf28648174fe0b94eb3f1b37beedfd2",
+      "action": "STARTUP_DIRECT_READY",
+      "timestamp": "2026-11-24 09:17:03",
+      "details": "Startup Job at Company (ERPNEXT Functional Expert &amp; Implementation Specialist (from Manufacturing)): Tailored ATS CV & CL generated. Ready for direct application.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 432,
+      "job_id": "caf28648174fe0b94eb3f1b37beedfd2",
+      "action": "APPLIED",
+      "timestamp": "2026-11-24T09:17:03.762827",
+      "details": "Startup Job (No HR email listed) | Ready for direct portal application",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 431,
+      "job_id": "d63680c8d1b3cd9b4a271597b2e475b5",
+      "action": "MNC_DIRECT_READY",
+      "timestamp": "2026-11-24 09:17:03",
+      "details": "MNC Job at PwC India (Associate - Kolkata Y-14 - Technology Consulting): Tailored ATS Resume & Cover Letter generated. Ready for direct application via 'Apply Now'.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 430,
+      "job_id": "d63680c8d1b3cd9b4a271597b2e475b5",
+      "action": "APPLIED",
+      "timestamp": "2026-11-24T09:17:03.758936",
+      "details": "MNC Job at PwC India | Direct Application Ready | Tailored ATS CV and Cover Letter generated for Associate - Kolkata Y-14 - Technology Consulting",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 429,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-24 09:17:03",
+      "details": "Scan cycle complete. Discovered 2 newly qualified jobs. Filtered out 35 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 428,
+      "job_id": "caf28648174fe0b94eb3f1b37beedfd2",
+      "action": "JOB_QUALIFIED",
+      "timestamp": "2026-11-24 09:17:02",
+      "details": "New eligible posting: ERPNEXT Functional Expert &amp; Implementation Specialist (from Manufacturing) at Company (Greater Kolkata Area) | ATS: 93% | MNC=0 -> Platform Link",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 427,
+      "job_id": "caf28648174fe0b94eb3f1b37beedfd2",
+      "action": "DISCOVERED",
+      "timestamp": "2026-11-24T09:17:02.092865",
+      "details": "Found on LinkedIn: ERPNEXT Functional Expert &amp; Implementation Specialist (from Manufacturing) at Company (Score: 93%)",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 426,
+      "job_id": "d63680c8d1b3cd9b4a271597b2e475b5",
+      "action": "JOB_QUALIFIED",
+      "timestamp": "2026-11-24 09:17:00",
+      "details": "New eligible posting: Associate - Kolkata Y-14 - Technology Consulting at PwC India (Kolkata, West Bengal, India) | ATS: 94% | MNC=1 -> Portal: https://www.google.com/search?q=PwC%20Associate%20-%20Kolkata%20Y-14%20-%20Technology%20kolkata%20careers&ibp=htl;jobs",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 425,
+      "job_id": "d63680c8d1b3cd9b4a271597b2e475b5",
+      "action": "DISCOVERED",
+      "timestamp": "2026-11-24T09:17:00.012740",
+      "details": "Found on LinkedIn: Associate - Kolkata Y-14 - Technology Consulting at PwC India (Score: 94%)",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 424,
+      "job_id": "d63680c8d1b3cd9b4a271597b2e475b5",
+      "action": "CAREER_PORTAL_MATCH",
+      "timestamp": "2026-11-24 09:17:00",
+      "details": "Found company career portal for PwC India: 'Apply Now' will route to https://www.google.com/search?q=PwC%20Associate%20-%20Kolkata%20Y-14%20-%20Technology%20kolkata%20careers&ibp=htl;jobs",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 423,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-24 09:16:18",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 422,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-24 09:01:16",
+      "details": "Autonomous cycle completed: 1 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 421,
+      "job_id": "2a577b22377114652e1f5c6eefd2679e",
+      "action": "MNC_DIRECT_READY",
+      "timestamp": "2026-11-24 09:01:16",
+      "details": "MNC Job at IBM (Package Consultant-Oracle HCM Time &amp; Absence Cloud): Tailored ATS Resume & Cover Letter generated. Ready for direct application via 'Apply Now'.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 420,
+      "job_id": "2a577b22377114652e1f5c6eefd2679e",
+      "action": "APPLIED",
+      "timestamp": "2026-11-24T09:01:16.509395",
+      "details": "MNC Job at IBM | Direct Application Ready | Tailored ATS CV and Cover Letter generated for Package Consultant-Oracle HCM Time &amp; Absence Cloud",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 419,
+      "job_id": null,
+      "action": "SCAN_COMPLETED",
+      "timestamp": "2026-11-24 09:01:16",
+      "details": "Scan cycle complete. Discovered 1 newly qualified jobs. Filtered out 32 ineligible non-Kolkata or >1.5yr postings.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 418,
+      "job_id": "2a577b22377114652e1f5c6eefd2679e",
+      "action": "JOB_QUALIFIED",
+      "timestamp": "2026-11-24 09:01:11",
+      "details": "New eligible posting: Package Consultant-Oracle HCM Time &amp; Absence Cloud at IBM (Greater Kolkata Area) | ATS: 94% | MNC=1 -> Portal: https://www.google.com/search?q=IBM%20Package%20Consultant-Oracle%20HCM%20Time%20amp%20Absence%20kolkata%20careers&ibp=htl;jobs",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 417,
+      "job_id": "2a577b22377114652e1f5c6eefd2679e",
+      "action": "DISCOVERED",
+      "timestamp": "2026-11-24T09:01:11.167161",
+      "details": "Found on LinkedIn: Package Consultant-Oracle HCM Time &amp; Absence Cloud at IBM (Score: 94%)",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 416,
+      "job_id": "2a577b22377114652e1f5c6eefd2679e",
+      "action": "CAREER_PORTAL_MATCH",
+      "timestamp": "2026-11-24 09:01:11",
+      "details": "Found company career portal for IBM: 'Apply Now' will route to https://www.google.com/search?q=IBM%20Package%20Consultant-Oracle%20HCM%20Time%20amp%20Absence%20kolkata%20careers&ibp=htl;jobs",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 415,
+      "job_id": null,
+      "action": "SCAN_STARTED",
+      "timestamp": "2026-11-24 09:00:34",
+      "details": "Starting 24/7 hunter scan across MNC & Startup Career Portals, LinkedIn, Naukri & Indeed for Kolkata & Remote roles (Freshers/<=1.5 Yrs).",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 414,
+      "job_id": null,
+      "action": "CYCLE_COMPLETE",
+      "timestamp": "2026-11-23 23:47:41",
+      "details": "Autonomous cycle completed: 2 tailored applications prepared, 0 startup HR emails dispatched.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    },
+    {
+      "log_id": 413,
+      "job_id": "ce8582c8afc6c54dbc21d503ed045836",
+      "action": "STARTUP_DIRECT_READY",
+      "timestamp": "2026-11-23 23:47:41",
+      "details": "Startup Job at ClinoGenesis Research Institute (Clinical Research Associate - Freshers Only): Tailored ATS CV & CL generated. Ready for direct application.",
+      "company": null,
+      "title": null,
+      "is_mnc": null
+    }
+  ]
+}
